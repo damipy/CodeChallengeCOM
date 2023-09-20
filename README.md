@@ -25,14 +25,3 @@ This Python script demonstrates virtual serial port communication using the `pys
    git clone https://github.com/yourusername/serial-port-communication.git
 
 
-## SAMPLE OUTPUT:
-
-Available COM ports:
-COM1: Communications Port
-COM10: COM10 (COM10)
-COM11: COM11 (COM11)
-Sent to COM10: Hello from COM10
-Received from COM11: Hello from COM10
-Sent to COM10: Hello from COM10
-Received from COM11: Hello from COM10
-...
